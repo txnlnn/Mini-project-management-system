@@ -19,7 +19,7 @@ The MMU Online Mini-Project System is an online tool designed for MMU lecturers 
   - View projects with filters (specialization, lecturer, project status)
   - Create user accounts (lecturers and students)
 
-##Sample View
+## Sample View
 Here is a sample view of the MMU Online Mini-Project System interface:
 ![image](https://github.com/txnlnn/Mini-project-management-system/assets/127374984/52388556-7cef-466a-b240-8c5696e92e36)
 
