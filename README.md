@@ -1,35 +1,23 @@
-# Mini-project-management-system
-Object-oriented analysis and design (OOAD) 
+# MMU Online Mini-Project System
 
-MMU Online Mini-Project System
 The MMU Online Mini-Project System is an online tool designed for MMU lecturers and students enrolled in the Mini-Project subject. The system facilitates project management, collaboration, and administration for a seamless mini-project experience.
 
-Features
+## Features
 
-Student:
-
-View projects based on specialization
-
-Apply for projects of interest
-
-Lecturer:
-
-Edit project details
-
-View projects offered
-
-Manage project assignments
-
-Administrator:
-
-Leave comments on projects
-
-Manage projects (create, edit, delete)
-
-View projects with filters (specialization, lecturer, project status)
-
-Create user accounts (lecturers and students)
-
+- **Student**: 
+  - View projects based on specialization
+  - Apply for projects of interest
+  
+- **Lecturer**: 
+  - Edit project details
+  - View projects offered
+  - Manage project assignments
+  
+- **Administrator**: 
+  - Leave comments on projects
+  - Manage projects (create, edit, delete)
+  - View projects with filters (specialization, lecturer, project status)
+  - Create user accounts (lecturers and students)
 
 Sample View
 Here is a sample view of the MMU Online Mini-Project System interface:
