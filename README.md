@@ -8,10 +8,12 @@ Features
 Student:
 View projects based on specialization
 Apply for projects of interest
+
 Lecturer:
 Edit project details
 View projects offered
 Manage project assignments
+
 Administrator:
 Leave comments on projects
 Manage projects (create, edit, delete)
